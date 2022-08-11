@@ -39,8 +39,6 @@
 
 🤝🏼 Feel free to drop by. Thanks.
 
-<br>
-
 ---
 
 <br>
@@ -71,4 +69,9 @@
 </div>
 
 
+---
+<br>
 
+## :fire: My Stats :
+      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imSuvankar&theme=dark)](https://git.io/streak-stats)
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imSuvankar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
