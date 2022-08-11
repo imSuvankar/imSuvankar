@@ -37,7 +37,6 @@
 - 👨🏻‍💻 Looking to collaborate on projects based on Pyhton and/or Java.
 - 📫 You can reach me via [mail](mailto:suvankar_das@outlook.com)
 
-🤝🏼 Feel free to drop by. Thanks.
 
 ---
 
@@ -73,5 +72,10 @@
 <br>
 
 ## :fire: My Stats :
-      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imSuvankar&theme=dark)](https://git.io/streak-stats)
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imSuvankar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imSuvankar&theme=dark)](https://git.io/streak-stats)
+
+<br>
+
+### 🤝🏼 Feel free to drop by. Thanks.
