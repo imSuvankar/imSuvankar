@@ -22,7 +22,7 @@
 <br>
 
 
-## 🙋🏻‍♂️ About me:
+> ## 🙋🏻‍♂️ About me:
 <div align="center">
   <img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </div>
@@ -35,14 +35,14 @@
 - 👀 I’m interested in `Data Structure`, `OOPs`, `Web Development` and a bunch of other technologies
 - 🌱 Currently learning `SQL`, `C++` and `Cloud Computing`
 - 👨🏻‍💻 Looking to collaborate on projects based on Pyhton and/or Java.
-- 📫 You can reach me via [mail](mailto:suvankar_das@outlook.com)
+- 📫 You can reach me via _[mail](mailto:suvankar_das@outlook.com)_
 
 
 ---
 
 <br>
 
-## 🛠️ Languages and Tools:
+> ## 🛠️ Languages and Tools:
 <div>
       
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;  
@@ -71,11 +71,12 @@
 ---
 <br>
 
-## :fire: My Stats :
+> ## 🔥 My Stats :
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imSuvankar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imSuvankar&theme=dark)](https://git.io/streak-stats)
+      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imSuvankar&theme=dark&sideLabels=DDC67F&background=0F0F0F)](https://git.io/streak-stats)
+
 
 <br>
 
-### 🤝🏼 Feel free to drop by. Thanks.
+### 🤝🏼 _Feel free to drop by. Thanks._
