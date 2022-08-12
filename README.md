@@ -32,10 +32,7 @@
 - 👨🏻‍💻 Looking to collaborate on projects based on Pyhton and/or Java.
 - 📫 You can reach me via _[mail](mailto:suvankar_das@outlook.com)_
 
-
-
----
-
+<br>
 <br>
 
 > ## 🛠️ Languages and Tools:
