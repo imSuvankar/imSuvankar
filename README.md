@@ -23,12 +23,7 @@
 
 
 > ## 🙋🏻‍♂️ About me:
-<div align="center">
-  <img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
-</div>
-
-<br>
-
+<img align="right" src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
 
 - 👋 Hi, I’m Suvankar
 - 🏡 I live in Siliguri, West Bengal, IND
@@ -36,6 +31,7 @@
 - 🌱 Currently learning `SQL`, `C++` and `Cloud Computing`
 - 👨🏻‍💻 Looking to collaborate on projects based on Pyhton and/or Java.
 - 📫 You can reach me via _[mail](mailto:suvankar_das@outlook.com)_
+
 
 
 ---
@@ -63,16 +59,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="Bash" width="40" height="40"/>&nbsp;
 </div>
 
-
 ---
 <br>
 
 > ## 🔥 My Stats :
+
+<!--
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imSuvankar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
       [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imSuvankar&theme=dark&sideLabels=DDC67F&background=0F0F0F)](https://git.io/streak-stats)
-      
+-->
+
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imSuvankar&theme=dark&sideLabels=DDC67F&background=0F0F0F)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imSuvankar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- | ------------- |
+
+---
 
 <br>
 
 ### 🤝🏼 _Feel free to drop by. Thanks._
+
+<br>
