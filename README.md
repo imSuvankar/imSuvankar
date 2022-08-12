@@ -23,7 +23,7 @@
 
 
 > ## 🙋🏻‍♂️ About me:
-<img align="right" src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="415"/>
+<img align="right" src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="430"/>
 
 - 👋 Hi, I’m Suvankar
 - 🏡 I live in Siliguri, West Bengal, IND
