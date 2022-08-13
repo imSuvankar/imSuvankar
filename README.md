@@ -23,11 +23,15 @@
 
 
 > ## 🙋🏻‍♂️ About me:
+<!-- 
 <img align="right" src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+-->
+<img align="right" src="https://www.puttiapps.com/wp-content/uploads/2021/05/business_analitics-2.gif" width="410"/>
+
 
 - 👋 Hi, I’m Suvankar
 - 🏡 I live in Siliguri, West Bengal, IND
-- 👀 Interested in `Data Structure`, `OOPs`, `Web Development` and a bunch of other technologies
+- 👀 Interested in `Data Structure`, `OOPs`, `Web Development` and a bunch of other technologies.
 - 🌱 Currently learning `SQL`, `C++` and `Cloud Computing`
 - 👨🏻‍💻 Looking to collaborate on projects based on Pyhton and/or Java.
 - 📫 You can reach me via _[mail](mailto:suvankar_das@outlook.com)_
