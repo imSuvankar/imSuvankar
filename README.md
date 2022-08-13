@@ -26,7 +26,7 @@
 <!-- 
 <img align="right" src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
 -->
-<img align="right" src="https://www.puttiapps.com/wp-content/uploads/2021/05/business_analitics-2.gif" width="360"/>
+<img align="right" src="https://www.puttiapps.com/wp-content/uploads/2021/05/business_analitics-2.gif" width="300"/>
 
 
 - 👋 Hi, I’m Suvankar
