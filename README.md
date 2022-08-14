@@ -71,7 +71,11 @@
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imSuvankar&theme=dark&sideLabels=DDC67F&background=0F0F0F)](https://github.com/imSuvankar) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imSuvankar&layout=compact&theme=vision-friendly-dark)](https://github.com/imSuvankar) |
 | ------------- | ------------- |
 
-<a href="https://github.com/imSuvankar"><img alt="hello's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imSuvankar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!--
+<a href="https://github.com/imSuvankar"><img alt="hello's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imSuvankar&bg_color=121313&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+-->
+
+[![Suvankar's github activity graph](https://activity-graph.herokuapp.com/graph?username=imSuvankar&theme=rogue&hide_border=true&line=D67D1E&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 > <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level
 <br>
