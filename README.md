@@ -7,10 +7,11 @@
   <a href="http://linkedin.com/in/imsuvankar">
     <img src="https://www.designinmentalhealth.com/wp-content/uploads/sites/57/2022/05/Linkedin-logo-png.png" alt="LinkedIn Badge" width="100"/>
   </a>
-   
+
+   <!--
   <a href="https://www.codechef.com/users/suvankar_das">
     <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="CodeChef Badge" width="100"/>
-  </a>
+  </a> -->
 </div>
 
 
