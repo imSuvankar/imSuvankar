@@ -33,7 +33,7 @@
 - 👋 Hi, I’m Suvankar
 - 🏡 I live in Siliguri, West Bengal, IND
 - 👀 Interested in `Data Structure`, `OOPs`, `Web Development` and a bunch of other technologies.
-- 🌱 Currently learning `SQL`, `C++` and `Cloud Computing`
+- 🌱 Currently learning `SQL`, `Android Development` and `Cloud Computing`
 - 👨🏻‍💻 Looking to collaborate on projects based on Pyhton and/or Java.
 - 📫 You can reach me via _[mail](mailto:suvankar_das@outlook.com)_
 
