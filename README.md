@@ -1,3 +1,9 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=69F539&height=100&section=header"/>
+
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=41FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO+EVERYONE,+MY+NAME+is+Daniel+Elias;I'm+21+years+old;I'm+from+Brazil;I'm+a+computer+science+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+-->
+
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
 </div>
@@ -18,6 +24,15 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=imSuvankar&style=flat-square&color=blue" alt=""/>
 </div>
+
+
+<!--
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{imSuvankar}/count.svg" />
+<br>
+</div>
+-->
 
 ---
 <br>
@@ -91,3 +106,4 @@
 <!--
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=69F539&height=100&section=footer"/>
