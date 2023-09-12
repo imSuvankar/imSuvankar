@@ -12,6 +12,7 @@
 <div id="badges" align="center">
   <a href="http://linkedin.com/in/imsuvankar">
     <img src="https://www.designinmentalhealth.com/wp-content/uploads/sites/57/2022/05/Linkedin-logo-png.png" alt="LinkedIn Badge" width="100"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/8815/8815166.png" alt="LinkedIn Badge" width="30"/>
   </a>
 
    <!--
@@ -20,7 +21,7 @@
   </a> -->
 </div>
 
-
+<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=imSuvankar&style=flat-square&color=blue" alt=""/>
 </div>
