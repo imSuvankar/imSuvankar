@@ -86,8 +86,14 @@
       [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imSuvankar&theme=dark&sideLabels=DDC67F&background=0F0F0F)](https://git.io/streak-stats)
 -->
 
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imSuvankar&layout=compact&theme=vision-friendly-dark)](https://github.com/imSuvankar) |
+| ------------- | ------------- |
+
+<!--
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imSuvankar&theme=dark&sideLabels=DDC67F&background=0F0F0F)](https://github.com/imSuvankar) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imSuvankar&layout=compact&theme=vision-friendly-dark)](https://github.com/imSuvankar) |
 | ------------- | ------------- |
+-->
+
 <be>
 
 > <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
