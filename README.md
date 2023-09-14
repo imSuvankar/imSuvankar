@@ -5,7 +5,9 @@
 -->
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
+  <a href="http://linkedin.com/in/imSuvankar" target="blank">
+    <img src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
+  </a>
 </div>
 
 
