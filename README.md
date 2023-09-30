@@ -112,8 +112,9 @@
 <!-- [![Suvankar's github activity graph](https://activity-graph.herokuapp.com/graph?username=imSuvankar&theme=rogue&hide_border=true&line=D67D1E&point=FFFFFF)](https://github.com/imSuvankar) -->
  
 ---
-<br>
+<be>
 
+[![An image of @imsuvankar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imsuvankar)](https://holopin.io/@imsuvankar)
 ### 🤝🏼 _Feel free to drop by. Thanks._
 
 <!--
